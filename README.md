@@ -10,7 +10,6 @@ To run the mode with the sample network run the following code block in python:
 ```
 import geosim
 
-alpha_dists = []#, lambda: 0.0]
 params = {
 			'rho': lambda: 0.6,
 			'gamma': 0.6,
