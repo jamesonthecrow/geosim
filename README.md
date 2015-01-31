@@ -18,7 +18,7 @@ params = {
 			'tau': 17.0,
 			'xmin': 1.0,
 			'network_type': 'real',
-			'fname': '/home/jameson/geo_social/data/model_network_clean.pickle',
+			'fname': 'sample_network.pickle',
 			'nusers': 100,
 			'nlocations': 250,
 			'ncontacts': 20,
